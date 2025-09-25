@@ -1,5 +1,5 @@
 const axios = require('axios');
-const TMDB_BASE_URL = 'https://api.themoviedb.org';
+const TMDB_BASE_URL = 'https://api.themoviedb.org/3';
 
 // 创建缓存对象
 const cache = new Map();
